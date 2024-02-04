@@ -1,1 +1,1 @@
-web: yarn install && yarn build && ts-node src/main.ts
+web: yarn install && yarn build && node src/main.ts
